@@ -270,6 +270,10 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 | A Arte de Game Design — Jesse Schell | Referência bibliográfica fornecida pelo professor |
 | Blasfêmia | Jogo brasileiro; inventário não manipulável, somente visível |
 
+## figma
+
+https://www.figma.com/design/kOElYfgz042eCZ045PVmC4/Sem-t%C3%ADtulo?node-id=14-2&t=CIToeQJ7Kq7nG7Sa-1
+
 ---
 
 *Lost Memories — GDD v1.0 | Documento sujeito a alterações conforme o desenvolvimento do projeto.*
