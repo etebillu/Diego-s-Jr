@@ -1,4 +1,4 @@
-# 🎮 Lost Memories — *Memórias Perdidas*
+# 🎮 Limbo Of Memories — *limbo das memorias*
 
 > **Game Design Document (GDD) — Versão 1.0 — 2026**
 
@@ -83,8 +83,8 @@ O jogador monta o quebra-cabeça da vida de Laura progressivamente, chegando ao 
 |---|---|---|---|
 | Laura | Protagonista | Mariane | Narradora interna; reage aos ambientes |
 | Pai de Laura | Personagem ausente | Tadeu *(a confirmar)* | Presente apenas nas fitas cassete |
-| A Sombra | Ameaça / Antagonista | Sem fala | Manifestação da culpa de Laura |
-| Mãe de Laura | Personagem ausente | Sem dublagem | Mencionada nas cartas; nunca aparece fisicamente |
+| A Sombra | Ameaça / Antagonista | Mariane | Manifestação da culpa de Laura |
+| Mãe de Laura | Personagem ausente | Bruna | Mencionada nas cartas; nunca aparece fisicamente |
 
 ---
 
@@ -229,6 +229,9 @@ a fazer.
 | Pedro C | Documentação | GDD atualizado e documentação técnica do TCC |
 | Pedro G | Game Design / Ideias | Contribuição com ideias de design, puzzles e narrativa |
 | Luiz A | Game Design / Ideias | Contribuição com ideias de design, puzzles e narrativa |
+| Emilly | Dublagem | Voz da protagonista criança-Laura |
+| Eduarda | Dublagem | Voz da Hanna (amiga da Laura) |
+| Bruna | Dublagem | Voz da mãe da Laura |
 
 ---
 
