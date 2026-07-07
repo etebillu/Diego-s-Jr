@@ -4,7 +4,7 @@
 
 Motor: **Godot 3.6.2** | Plataforma: **PC (Windows)**
 
-**Equipe:** Tadeu • Matheus • Mariane • Pedro C • Pedro G • Luiz A
+**Equipe:** Tadeu • Matheus • Mariane • Pedro C • Pedro G • Luiz A • Gabriel • Emilly • Bruna • Eduarda
 
 ---
 
