@@ -16,7 +16,7 @@ Motor: **Godot 3.6.2** | Plataforma: **PC (Windows)**
 | Gênero | Horror Psicológico / Exploração Narrativa |
 | Motor | Godot 3.6.2 stable |
 | Plataforma | PC (Windows) |
-| Perspectiva | Primeira Pessoa (FPS) |
+| Perspectiva | Primeira Pessoa |
 | Estética Visual | Low-poly estilo PS1 |
 | Duração estimada | 30 a 60 minutos por partida |
 | Número de endings | 2 (bom e ruim) |
@@ -26,13 +26,7 @@ Motor: **Godot 3.6.2** | Plataforma: **PC (Windows)**
 
 ## 📖 Sinopse
 
-Laura está morta.
-
-Ela acorda na casa de sua infância sem nenhuma memória de quem foi ou como chegou ali — apenas se lembrando da casa em que está. O quarto que deveria ser o dela está completamente vazio; ela saiu de casa anos atrás e nunca mais voltou.
-
-Espalhadas pela casa há fitas cassete e cartas que contam, aos poucos, a história de sua vida: a morte do pai no seu aniversário de 18 anos, a culpa imposta pela mãe, a fuga, as drogas e, por fim, a overdose que induziu conscientemente num surto depressivo.
-
-Enquanto coleta essas memórias, uma sombra a persegue pelos cômodos — uma manifestação da culpa e do peso que carregou em vida. O destino de Laura depende de como ela enfrenta — ou foge de — sua própria história.
+A fazer.
 
 ---
 
@@ -62,7 +56,7 @@ Enquanto coleta essas memórias, uma sombra a persegue pelos cômodos — uma ma
 | Condição | Morta — presa no limbo na forma de sua casa de infância |
 | Memória | Completamente apagada no início do jogo |
 | Personalidade | Sensível, culpada, isolada, mas com momentos de leveza na infância *(revelada via coletáveis)* |
-| Dublagem | Mariane |
+| Dublagem | Mariane e Emilly |
 
 ### Linha do Tempo da História
 
@@ -161,7 +155,6 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 | Ending | Condição | Descrição |
 |---|---|---|
 | ✅ **Paz** *(Ending Bom)* | Coletar todas as fitas e cartas | Laura reconstrói sua memória completa, aceita sua história sem culpa e parte em paz. Cena final: o quarto vazio se preenche com luz e desaparece. |
-| 🔁 **Loop Eterno** *(Ending Ruim)* | Zerar sem coletar todos os coletáveis | Laura não consegue aceitar o que viveu. A casa se reinicia do zero — ela está presa repetindo o mesmo ciclo para sempre, sem paz e sem saída. |
 
 ---
 
@@ -175,14 +168,7 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 ---
 
 ## 🏠 Ambientes
-
-| Cômodo | Descrição | Coletáveis esperados |
-|---|---|---|
-| Hall de entrada | Primeiro ambiente; escuro, porta trancada | 1 carta |
-| Sala de estar | Móveis velhos cobertos de pó; TV estática | 1 fita, 1 carta |
-| Cozinha | Louça suja, calendário parado numa data | 1 carta, 1 foto |
-| Quarto do pai | Cama desfeita, remédios na mesa de cabeceira | 2 fitas, 2 cartas |
-| Quarto de Laura (vazio) | Completamente vazio; piso marcado onde havia móveis | 1 carta *(escondida no assoalho)* |
+a fazer.
 
 ---
 
@@ -199,8 +185,8 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 - Fitas cassete reproduzem áudio com **efeito de fita degradada**
 - A Sombra tem tema sonoro próprio: frequências graves e respiração
-- **Dublagem de Laura** (Mariane): reações ao ambiente, leitura de cartas em voz alta
-- **Voz do pai** nas fitas cassete (Tadeu — a confirmar)
+- **Dublagem de Laura** (Mariane e Emilly): reações ao ambiente, leitura de cartas em voz alta
+- **Voz do pai** nas fitas cassete (Tadeu)
 
 ---
 
@@ -226,7 +212,7 @@ A lanterna é encontrada como item no início do jogo. Sem ela, o jogador não c
 
 ### Fluxo de Dados
 
-- O save local (fitas cassete) funciona **independentemente** do backend
+- Save automático a cada 70 segundos com indicador de salvamento.
 - Ao zerar o jogo, o Godot envia os dados via `HTTPRequest POST` para a API
 - A API valida e salva no banco de dados
 - O ranking pode ser consultado no menu principal do jogo
